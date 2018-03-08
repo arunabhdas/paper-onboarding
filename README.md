@@ -1,25 +1,22 @@
-![header](./header.png)
-![animation](./preview.gif)
-
 # paper-onboarding
-[![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
+[![Twitter](https://img.shields.io/badge/Twitter-@arunabhdas-blue.svg?style=flat)](http://twitter.com/arunabhdas)
 [![CocoaPods](https://img.shields.io/cocoapods/p/paper-onboarding.svg)](https://cocoapods.org/pods/paper-onboarding)
 [![CocoaPods](https://img.shields.io/cocoapods/v/paper-onboarding.svg)](http://cocoapods.org/pods/paper-onboarding)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Ramotion/paper-onboarding)
-[![Travis](https://img.shields.io/travis/Ramotion/paper-onboarding.svg)](https://travis-ci.org/Ramotion/paper-onboarding)
-[![codebeat badge](https://codebeat.co/badges/d06237c6-6ff7-4560-9602-b6cc65063383)](https://codebeat.co/projects/github-com-ramotion-paper-onboarding)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/arunabhdas/paper-onboarding)
+[![Travis](https://img.shields.io/travis/arunabhdas/paper-onboarding.svg)](https://travis-ci.org/arunabhdas/paper-onboarding)
+[![codebeat badge](https://codebeat.co/badges/d06237c6-6ff7-4560-9602-b6cc65063383)](https://codebeat.co/projects/github-com-arunabhdas-paper-onboarding)
 
 # Check this library on other platforms:
-<a href="https://github.com/Ramotion/paper-onboarding-android">
-<img src="https://github.com/ramotion/navigation-stack/raw/master/Android_Java@2x.png" width="178" height="81"></a>
+<a href="https://github.com/arunabhdas/paper-onboarding-android">
+<img src="https://github.com/arunabhdas/navigation-stack/raw/master/Android_Java@2x.png" width="178" height="81"></a>
 
 **Looking for developers for your project?**<br>
-This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
+This project is maintained by arunabhdas, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-contact-us">
-<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
+<a href="https://dev.arunabhdas.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-contact-us">
+<img src="https://github.com/arunabhdas/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
 
-The [iPhone mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding).
+The [iPhone mockup](https://store.arunabhdas.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding) available [here](https://store.arunabhdas.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding).
 
 ## Requirements
 
@@ -38,7 +35,7 @@ pod 'paper-onboarding'
 
 or [Carthage](https://github.com/Carthage/Carthage) users can simply add to their `Cartfile`:
 ```
-github "Ramotion/paper-onboarding"
+github "arunabhdas/paper-onboarding"
 ```
 
 ## Usage
@@ -139,13 +136,13 @@ See [LICENSE](./LICENSE) for details.
 Try this UI component and more like this in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=paper-onboarding&mt=8" >
-<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
+<img src="https://github.com/arunabhdas/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
 
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-contact-us">
-<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
+<a href="https://dev.arunabhdas.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-contact-us">
+<img src="https://github.com/arunabhdas/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
 
 Follow us for the latest updates<br>
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/paper-onboarding)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/arunabhdas/paper-onboarding)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arunabhdas.svg?style=social)](https://twitter.com/arunabhdas)
